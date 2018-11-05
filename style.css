@@ -87,6 +87,7 @@ margin:150px 0px;
   border-top-color: #4aaaa5;
   border-width: 8px 0px 0px 0px;
   border-style: solid;
+  z-index: 5;
 }
 .contianer-relative{ 
   position: relative;
